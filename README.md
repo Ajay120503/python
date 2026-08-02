@@ -483,16 +483,3 @@ if __name__ == "__main__":
 - `debug=True` enables auto-reload and detailed error pages during development (never use in production).
 
 ---
-
-## Quick Revision Checklist
-- [ ] Variables, data types, operators, I/O
-- [ ] if/elif/else, while/for loops, break/continue/pass
-- [ ] Function syntax, scope (LEGB), *args/**kwargs
-- [ ] Lists vs Tuples vs Dicts vs Sets — mutability & use cases
-- [ ] OOP: classes, inheritance, polymorphism, encapsulation
-- [ ] Modules vs Packages, import syntax
-- [ ] File handling with `with`, exception handling (try/except/else/finally)
-- [ ] NumPy arrays & vectorized ops
-- [ ] Pandas DataFrame/Series operations
-- [ ] Tkinter widgets & layout managers
-- [ ] Flask routing, Jinja2 templates, GET vs POST
