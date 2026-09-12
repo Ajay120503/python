@@ -1,12 +1,4 @@
-# Python: Basics to Advanced
-
-> A practical study guide with theory, coding examples, Mermaid diagrams, interview revision, exercises, and a complete database project.
->
-> **Compatibility:** Main examples target Python 3.11+. Newer syntax is labeled Python 3.12+ or 3.14+. Third-party examples state their dependencies. Run separate examples in separate files unless filenames explicitly connect them.
->
-> **How to study:** Read the explanation, predict the output, run the code, change the inputs, and solve the exercises. This guide covers the core language and professional development practices; specialist frameworks and libraries have their own larger references.
->
-> **Diagrams:** Open this file in GitHub or a Mermaid-enabled Markdown preview. Some VS Code previews need a Mermaid extension to render fenced diagrams.
+# Python
 
 ## Contents
 
